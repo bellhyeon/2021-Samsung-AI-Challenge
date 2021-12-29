@@ -1,4 +1,4 @@
-# Samsung-AI-Challenge
+# Samsung AI Challenge for Scientific Discovery
 
 ## Docker Image
 ```
